@@ -107,7 +107,7 @@ const TopBar = ({ onePage }) => {
 
           {/* mode switcher place end */}
           {/* action button */}
-          <a href="files/cv.txt" download="" className="trm-btn trm-btn-sm">
+          <a href="files/cv.pdf" download="" className="trm-btn trm-btn-sm">
             Download cv <i className="fas fa-arrow-down" />
           </a>
           {/* action button end */}
