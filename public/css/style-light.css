@@ -2538,7 +2538,7 @@ popup
 .trm-order .trm-popup-content .trm-popup-form-frame {
   text-align: center;
   position: relative;
-  padding: 40px;
+  padding: 0;
   width: 60%;
 }
 .trm-order .trm-popup-content .trm-popup-form-frame .trm-success-banner {

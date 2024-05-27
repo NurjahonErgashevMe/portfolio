@@ -229,7 +229,7 @@ const VideoBanner = ({}) => {
                 <h1 className="trm-mb-30">
                   Откройте для себя
                   <br />
-                  мою арт-пространство!
+                  мое арт-пространство!
                 </h1>
                 <a
                   target="_blank"

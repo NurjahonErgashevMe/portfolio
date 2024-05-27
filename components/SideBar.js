@@ -69,7 +69,7 @@ const SideBar = () => {
           <div className="trm-divider trm-mb-20 trm-mt-20" />
           {/* action button */}
           <div className="text-center">
-            <a data-fancybox="" href="#trm-order" className="trm-btn">
+            <a data-fancybox="" href="#trm-order" className="trm-btn" >
               СВЯЖИТЕСЬ СО МНОЙ
               <i className="far fa-envelope" />
             </a>
