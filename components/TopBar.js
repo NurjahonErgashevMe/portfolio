@@ -39,12 +39,12 @@ const TopBar = ({ onePage }) => {
                 <OnePageMenu />
               ) : (
                 <ul>
-                  <li className="menu-item-has-children">
+                  <li >
                     <Link legacyBehavior href="/">
                       Home
                     </Link>
                   </li>
-                  <li className="menu-item-has-children">
+                  <li >
                     <Link legacyBehavior href="/portfolio">
                       Portfolio
                     </Link>
