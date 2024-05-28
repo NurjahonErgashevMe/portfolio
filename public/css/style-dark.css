@@ -2169,6 +2169,9 @@ contact form
 }
 
 @media (max-width: 992px) {
+  .trm-contact-card{
+    padding: 20px;
+  }
   .trm-contact-card .trm-form-bottom {
     flex-direction: column;
   }
