@@ -73,7 +73,7 @@ export const PROJECTS = [
     title: "E-medical",
     description: ``,
     img: "/img/portfolio/e-medical.webp",
-    link: "https://e-medical.uz/",
+    link: "https://dashboard.e-medical.uz/",
     col: 6,
   },
 ];
