@@ -55,13 +55,6 @@ export const PROJECTS = [
     link: "https://www.zikkirbuildings.uz/",
     col: 4,
   },
-  // {
-  //   title: "Any Way Planet",
-  //   description: ``,
-  //   img: "/img/portfolio/anywayplanet.png",
-  //   link: "https://anywayplanet.io/",
-  //   col: 4,
-  // },
   {
     title: "Olmashop",
     description: ``,
@@ -74,6 +67,13 @@ export const PROJECTS = [
     description: ``,
     img: "/img/portfolio/e-medical.webp",
     link: "https://dashboard.e-medical.uz/",
+    col: 6,
+  },
+  {
+    title: "sbumiptk",
+    description: ``,
+    img: "/img/portfolio/sbumiptk.png",
+    link: "https://sbumiptk.uz//",
     col: 6,
   },
 ];
