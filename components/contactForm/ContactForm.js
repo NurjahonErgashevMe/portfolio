@@ -14,11 +14,10 @@ const ContactForm = () => {
   const [loading, setLoading] = useState(false);
   const [successSended, setSuccessSended] = useState(false);
 
-  const telegram_bot_id = "6633992193:AAEhRvbFA35CQcVE0Runog5vFzTHKwF4hMc";
   const chat_id = "6089511983";
 
   const sendMessage = async (message) => {
-    const base_url = `https://api.telegram.org/bot${telegram_bot_id}`;
+    const base_url = `https://api.telegram.org/bot6633992193:AAEhRvbFA35CQcVE0Runog5vFzTHKwF4hMc`;
     const url = `${base_url}/sendMessage`;
 
     await fetch(url, {
