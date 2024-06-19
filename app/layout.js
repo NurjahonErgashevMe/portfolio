@@ -20,6 +20,7 @@ import {
 } from "@/constants/seo";
 import { AVATAR_URL } from "@/constants/index";
 import NextTransitionBar from "next-transition-bar";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
   title: WEBSITE_TITLE,
@@ -52,20 +53,21 @@ export default function RootLayout({ children }) {
       <State>
         <TrueManModeCss />
         <body>
-            <div className="trm-app-frame">
-              <Preloader />
-              <NextTransitionBar color="#ffff00" showSpinner={false} />
-              <div id="trm-dynamic-content" className="trm-swup-animation">
-                <div
-                  id="trm-scroll-container"
-                  className="trm-scroll-container"
-                  style={{ opacity: 0 }}
-                >
-                  {children}
-                </div>
+          <div className="trm-app-frame">
+            <Preloader />
+            <NextTransitionBar color="#ffff00" showSpinner={false} />
+            <div id="trm-dynamic-content" className="trm-swup-animation">
+              <div
+                id="trm-scroll-container"
+                className="trm-scroll-container"
+                style={{ opacity: 0 }}
+              >
+                {children}
               </div>
             </div>
+          </div>
         </body>
+        <Analytics />
       </State>
     </html>
   );
