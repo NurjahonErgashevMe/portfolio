@@ -36,7 +36,7 @@ export const PROJECTS = [
     title: "Extensi one",
     description: ``,
     img: "/img/portfolio/extensione.png",
-    link: "https://extensi-landing-new.vercel.app/",
+    link: "https://extensi.one/",
     col: 6,
   },
   {
