@@ -220,7 +220,7 @@ const Index = () => {
                       </a>
                     </h6>
                     <div className="trm-text-sm trm-accent-color trm-mb-15">
-                      <i>сент 2022 - март 2023</i>
+                      <i>май 2022 - март 2023</i>
                     </div>
                   </div>
                 </div>
