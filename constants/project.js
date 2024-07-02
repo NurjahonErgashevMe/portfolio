@@ -3,7 +3,7 @@ export const PROJECTS = [
     id: 1,
     title: "Merlines",
     description: ``,
-    link: "https://dev.merlines.ru",
+    link: "https://merlines.ru",
     img: "/img/portfolio/merlines.png",
     col: 4,
   },
