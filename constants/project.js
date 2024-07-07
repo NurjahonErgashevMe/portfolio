@@ -25,6 +25,14 @@ export const PROJECTS = [
   },
   {
     id: 4,
+    title: "Refine Ship",
+    description: ``,
+    img: "/img/portfolio/refineship.png",
+    link: "https://www.refineship.com",
+    col: 6,
+  },
+  {
+    id: 4,
     title: "East Auto",
     description: ``,
     img: "/img/portfolio/eastauto.png",
@@ -37,7 +45,7 @@ export const PROJECTS = [
     description: ``,
     img: "/img/portfolio/autoshipez.png",
     link: "https://autoshipez.com/",
-    col: 6,
+    col: 4,
   },
   {
     id: 6,
