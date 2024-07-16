@@ -238,47 +238,6 @@ const Index = () => {
                 </a> */}
               </div>
             </div>
-            <div
-              className="trm-timeline-item trm-scroll-animation trm-active-el"
-              data-scroll
-              data-scroll-offset={40}
-            >
-              <div className="trm-timeline-mark-light" />
-              <div className="trm-timeline-mark" />
-              <div className="trm-a trm-timeline-content">
-                <div className="trm-card-header">
-                  <div className="trm-left-side">
-                    <h6 className="trm-mb-15">
-                      Frontend developer at <br></br>
-                      <a
-                        href="https://sayt-xizmati.uz/"
-                        target="_blank"
-                        role="link"
-                        title="Soft System IT Company"
-                        className="trm-accent-color"
-                      >
-                        Soft System
-                      </a>
-                    </h6>
-                    <div className="trm-text-sm trm-accent-color trm-mb-15">
-                      <i>Март 2023 — сентябрь 2023</i>
-                    </div>
-                  </div>
-                </div>
-                <div className="trm-mb-20">
-                  Tech Stack: <br /> <br />
-                  HTML, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js,
-                  React Query , Axios , Mantine , Redux , Zustand, RTK Query
-                </div>
-                {/* <a
-                  data-fancybox
-                  href="files/diploma.jpg"
-                  className="trm-label trm-label-color"
-                >
-                  Diploma <i className="fas fa-arrow-right" />
-                </a> */}
-              </div>
-            </div>
           </div>
           {/* timeline end */}
         </div>
@@ -307,7 +266,7 @@ const Index = () => {
                       </a>
                     </h6>
                     <div className="trm-text-sm trm-accent-color trm-mb-15">
-                      <i>Январь 2024 — март 2024</i>
+                      <i>Март 2023 — ноябрь 2023</i>
                     </div>
                   </div>
                 </div>
