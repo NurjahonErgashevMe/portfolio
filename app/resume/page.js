@@ -224,11 +224,6 @@ const Index = () => {
                     </div>
                   </div>
                 </div>
-                <div className="trm-mb-20">
-                  Tech Stack: <br /> <br />
-                  HTML, CSS, Tailwind CSS, TypeScript, JavaScript, React.js,
-                  Next.js, React Query, Redux, Redux Toolkit, Zustand
-                </div>
                 {/* <a
                   data-fancybox
                   href="files/diploma.jpg"
@@ -256,23 +251,19 @@ const Index = () => {
                     <h6 className="trm-mb-15">
                       Frontend developer at <br />
                       <a
-                        href="https://radiants.uz/"
+                        href="https://sevimlitv.uz/"
                         target="_blank"
-                        title="Radiants it Company"
+                        title="Sevimli TV"
                         role="link"
                         className="trm-accent-color"
                       >
-                        Radiants
+                        Sevimli TV
                       </a>
                     </h6>
                     <div className="trm-text-sm trm-accent-color trm-mb-15">
                       <i>Март 2023 — ноябрь 2023</i>
                     </div>
                   </div>
-                </div>
-                <div>
-                  Dolorum provident rerum aut hic quasi placeat iure tempora
-                  laudantium ipsa ad debitis unde.
                 </div>
               </div>
             </div>
@@ -302,12 +293,6 @@ const Index = () => {
                       <i>Сентябрь 2023 — настоящее время</i>
                     </div>
                   </div>
-                </div>
-                <div>
-                  Skills: <br /> <br />
-                  HTML, SCSS, JavaScript , TypeScript React.js, Redux Toolkit,
-                  Next.js, Three.js, VITE, MUI, Webpack. Enhancing projects, 3D
-                  animation, optimization.
                 </div>
               </div>
             </div>
