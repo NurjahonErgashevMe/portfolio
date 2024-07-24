@@ -107,8 +107,8 @@ const TopBar = ({ onePage }) => {
 
           {/* mode switcher place end */}
           {/* action button */}
-          <a href="files/cv.pdf" download="" className="trm-btn trm-btn-sm">
-            Download cv <i className="fas fa-arrow-down" />
+          <a href="https://www.canva.com/design/DAGKQgmBL-4/0SjjjoNT2RIet2tCaUBlcw/view?utm_content=DAGKQgmBL-4&utm_campaign=designshare&utm_medium=link&utm_source=editor" className="trm-btn trm-btn-sm" target="_blank">
+            View CV 
           </a>
           {/* action button end */}
         </div>

@@ -25,10 +25,10 @@ export const PROJECTS = [
   },
   {
     id: 4,
-    title: "Alfa force",
+    title: "Med Go",
     description: ``,
-    img: "/img/portfolio/alfa-force.png",
-    link: "https://crou.alfa-force.ru/",
+    img: "/img/portfolio/medgo.png",
+    link: "https://medgo.ru/",
     col: 6,
   },
   {
@@ -41,6 +41,14 @@ export const PROJECTS = [
   },
   {
     id: 6,
+    title: "Alfa force",
+    description: ``,
+    img: "/img/portfolio/alfa-force.png",
+    link: "https://crou.alfa-force.ru/",
+    col: 4,
+  },
+  {
+    id: 7,
     title: "East Auto LLC",
     description: ``,
     img: "/img/portfolio/eastauto.png",
@@ -48,7 +56,7 @@ export const PROJECTS = [
     col: 4,
   },
   {
-    id: 7,
+    id: 8,
     title: "Ez Auto Ship",
     description: ``,
     img: "/img/portfolio/autoshipez.png",
@@ -56,15 +64,15 @@ export const PROJECTS = [
     col: 4,
   },
   {
-    id: 8,
+    id: 9,
     title: "Extensi one",
     description: ``,
     img: "/img/portfolio/extensione.png",
     link: "https://extensi.one/",
-    col: 4,
+    col: 6,
   },
   {
-    id: 9,
+    id: 10,
     title: "CRM Logistic",
     description: ``,
     img: "/img/portfolio/crm-logistic.png",
@@ -72,16 +80,16 @@ export const PROJECTS = [
     col: 6,
   },
   {
-    id: 10,
+    id: 11,
     title: "Zikkir Buildings",
     description: ``,
     img: "/img/portfolio/zikkir.png",
     link: "https://www.zikkirbuildings.uz/",
-    col: 6,
+    col: 4,
   },
 
   {
-    id: 11,
+    id: 12,
     title: "E-medical",
     description: ``,
     img: "/img/portfolio/e-medical.webp",
@@ -89,7 +97,7 @@ export const PROJECTS = [
     col: 4,
   },
   {
-    id: 12,
+    id: 13,
     title: "sbumiptk",
     description: ``,
     img: "/img/portfolio/sbumiptk.png",
@@ -97,11 +105,11 @@ export const PROJECTS = [
     col: 4,
   },
   {
-    id: 13,
+    id: 14,
     title: "Olmashop",
     description: ``,
     img: "/img/portfolio/olmashop.png",
     link: "https://olmashop.uz/",
-    col: 4,
+    col: 6,
   },
 ];
