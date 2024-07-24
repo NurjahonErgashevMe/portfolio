@@ -12,7 +12,7 @@ const Story = () => {
           data-scroll=""
           data-scroll-offset={40}
         >
-          По приколу вкатился в айти XD
+          Тут должны быть умные слова но их нет :D
         </blockquote>
         {/* quote end */}
       </div>
