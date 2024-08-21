@@ -15,7 +15,7 @@ const Index = () => {
   useEffect(() => {
     banner_type_function();
     banner_image_function("/img/banner2.jpg");
-    page_info_function("Мои проекты<br>", "portfolio", "portfolio", false);
+    page_info_function("Проекты<br>", "portfolio", "portfolio", false);
   }, []);
 
   return (
