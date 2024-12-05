@@ -107,7 +107,7 @@ const TopBar = ({ onePage }) => {
 
           {/* mode switcher place end */}
           {/* action button */}
-          <a href="https://www.canva.com/design/DAGKQgmBL-4/0SjjjoNT2RIet2tCaUBlcw/view?utm_content=DAGKQgmBL-4&utm_campaign=designshare&utm_medium=link&utm_source=editor" className="trm-btn trm-btn-sm" target="_blank">
+          <a href="https://tashkent.hh.uz/resume/a5ec73acff0e1927ab0039ed1f39563248637a" className="trm-btn trm-btn-sm" target="_blank">
             View CV 
           </a>
           {/* action button end */}
